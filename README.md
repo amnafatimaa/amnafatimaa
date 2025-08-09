@@ -24,9 +24,6 @@ Postgres, Data structures,  Django
 
 ---
 
-### Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amnafatimaa&layout=compact&theme=radical)
-
 ### Stats
 ## ⚙️ &nbsp;GitHub Analytics
 
@@ -43,4 +40,5 @@ Postgres, Data structures,  Django
 
 
 [![Profile Views](https://komarev.com/ghpvc/?username=amnafatimaa&color=blue&style=flat)](https://github.com/antonkomarev/github-profile-views-counter)
+
 
