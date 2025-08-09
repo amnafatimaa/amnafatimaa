@@ -28,6 +28,19 @@ Postgres, Data structures,  Django
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amnafatimaa&layout=compact&theme=radical)
 
 ### Stats
-[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=amnafatimaa&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+## ⚙️ &nbsp;GitHub Analytics
+
+<br>
+
+<p align="center">
+<a href="https://github.com/umarzulfiqar">
+  <img height="240em" width="420em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=amnafatimaa&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <br>
+  <img height="240em" width="420em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=amnafatimaa&layout=compact&theme=algolia"/> 
+    <br>
+</a>
+</p>
+
 
 [![Profile Views](https://komarev.com/ghpvc/?username=amnafatimaa&color=blue&style=flat)](https://github.com/antonkomarev/github-profile-views-counter)
+
