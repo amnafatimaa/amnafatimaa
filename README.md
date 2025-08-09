@@ -29,3 +29,5 @@ Postgres, Data structures,  Django
 
 ### Stats
 [![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=amnafatimaa&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Profile Views](https://komarev.com/ghpvc/?username=amnafatimaa&color=blue&style=flat)](https://github.com/antonkomarev/github-profile-views-counter)
