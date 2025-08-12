@@ -28,9 +28,13 @@ I'm a frontend developer with a solid grasp of backend technologies too. My stre
 <a href="https://github.com/amnafatimaa">
 
 ![](https://github-readme-stats.vercel.app/api?username=amnafatimaa&theme=algolia&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=amnafatimaa&theme=dark&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=amnafatimaa&theme=algolia&hide_border=false)<br/>
     <br>
   <img height="240em" width="420em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=amnafatimaa&layout=compact&theme=algolia"/> 
     <br>
 </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=amnafatimaa&style=flat-square&color=blue" alt="Profile Views"/>
 </p>
