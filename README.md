@@ -12,10 +12,12 @@ I craft **beautiful, fast, and scalable** web applications, and I’m always up 
 
 ---
 
-## 🛠 Tech Arsenal
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,vite,nodejs,tailwind,bootstrap,git,github,figma,python,postman,mongodb,sqlite,fastapi,vercel,powershell,matlab" />
+## 💻 Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=css,html,js,powershell,python,windows,ts,vercel,bootstrap,django,fastapi,express,flask,jwt,jinja,npm,nodejs,react,reactrouter,vite,mongodb,sqlite,postgres,figma,github,git,jira,postman,linux,tailwind,matlab,vscode,bash" />
 </p>
+
 
 ---
 
@@ -45,3 +47,4 @@ I craft **beautiful, fast, and scalable** web applications, and I’m always up 
 
 <!-- Footer -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4A00E0,100:8E2DE2&height=120&section=footer" />
+
