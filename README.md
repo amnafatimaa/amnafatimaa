@@ -49,9 +49,6 @@ I love building beautiful, functional web applications and experimenting with ne
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=amnafatimaa&theme=algolia&hide_border=false&include_all_commits=false&count_private=false" height="180em" />
 <img src="https://streak-stats.demolab.com/?user=amnafatimaa&theme=algolia&hide_border=false" height="180em" />
-</p>
-
-<p align="center">
 <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=amnafatimaa&layout=compact&theme=algolia" height="180em" />
 </p>
 
@@ -60,3 +57,4 @@ I love building beautiful, functional web applications and experimenting with ne
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=amnafatimaa&style=flat-square&color=blue" alt="Profile Views"/>
 </p>
+
