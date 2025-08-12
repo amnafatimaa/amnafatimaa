@@ -1,55 +1,40 @@
-# 💫 About Me  
-Hi! I'm **Amna Fatima**, a frontend developer with a strong grasp of backend technologies.  
-I love building beautiful, functional web applications and experimenting with new tools & frameworks.  
+<!-- Profile Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4A00E0,100:8E2DE2&height=200&section=header&text=Amna%20Fatima&fontSize=45&fontColor=fff&animation=fadeIn&fontAlignY=35" />
 
-💡 Always open to discussing **best practices**, **cool ideas**, or **collaborating** on projects.  
+## 👋 Hey there!  
+I'm **Amna Fatima**, a passionate **Frontend Developer** who also loves dabbling with backend tech.  
+I craft **beautiful, fast, and scalable** web applications, and I’m always up for new challenges 🚀  
 
-- 🔭 **Currently working with**: Python, React, Node.js, FastAPI  
-- 🤝 **Open to collaborating on**: Full-stack projects & API development  
-
-📫 **Find me on:** [LinkedIn](https://www.linkedin.com/in/amna-fatima-9777622a1/)  
-
----
-
-## 💻 Tech Stack  
-<table>
-<tr>
-<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="48"/></td>
-<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="48"/></td>
-<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="48"/></td>
-<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" width="48"/></td>
-<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" width="48"/></td>
-</tr>
-<tr>
-<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="48"/></td>
-<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg" width="48"/></td>
-<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg" width="48"/></td>
-<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" width="48"/></td>
-<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" width="48" style="background-color:white; padding:4px;"/></td>
-</tr>
-<tr>
-<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="48"/></td>
-<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="48"/></td>
-<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="48"/></td>
-<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain-wordmark.svg" width="48"/></td>
-<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" width="48"/></td>
-</tr>
-<tr>
-<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" width="48"/></td>
-<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original-wordmark.svg" width="48" style="background-color:white; padding:4px;"/></td>
-<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="48"/></td>
-<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" width="48"/></td>
-<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" width="48"/></td>
-</tr>
-</table>
+💡 **I love**:  
+- Turning complex ideas into clean, elegant code  
+- Working with modern stacks like **React, FastAPI, Node.js, MongoDB**  
+- Collaborating on exciting **full-stack projects**  
 
 ---
 
-## 📊 GitHub Analytics  
+## 🛠 Tech Arsenal
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=amnafatimaa&theme=algolia&hide_border=false&include_all_commits=false&count_private=false" height="180em" />
-<img src="https://streak-stats.demolab.com/?user=amnafatimaa&theme=algolia&hide_border=false" height="180em" />
-<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=amnafatimaa&layout=compact&theme=algolia" height="180em" />
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,vite,nodejs,tailwind,bootstrap,git,github,figma,python,postman,mongodb,sqlite,fastapi,vercel,powershell,matlab" />
+</p>
+
+---
+
+## 📊 GitHub Insights
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amnafatimaa&show_icons=true&theme=radical&count_private=true" />
+  <img height="180em" src="https://streak-stats.demolab.com?user=amnafatimaa&theme=radical&hide_border=false" />
+</p>
+
+<p align="center">
+  <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=amnafatimaa&layout=compact&theme=radical" />
+</p>
+
+---
+
+## 🌍 Let's Connect
+<p align="center">
+  <a href="https://www.linkedin.com/in/amna-fatima-9777622a1/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=LinkedIn&logoColor=white&style=for-the-badge" /></a>
+  <a href="mailto:amnafatima12@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?logo=Gmail&logoColor=white&style=for-the-badge" /></a>
 </p>
 
 ---
@@ -58,3 +43,5 @@ I love building beautiful, functional web applications and experimenting with ne
   <img src="https://komarev.com/ghpvc/?username=amnafatimaa&style=flat-square&color=blue" alt="Profile Views"/>
 </p>
 
+<!-- Footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4A00E0,100:8E2DE2&height=120&section=footer" />
