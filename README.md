@@ -17,7 +17,18 @@ Passionate about creating smooth user experiences and writing maintainable code.
 - **Open to collaborate on:** Full-stack projects, API development  
 - **Love discussing:** Best practices, performance optimization, modern web tech  
 
-📌 **[Connect with me on LinkedIn](https://www.linkedin.com/in/amna-fatima-9777622a1/)**
+---
+
+## 📫 Connect With Me
+
+<p>
+  <a href="https://www.linkedin.com/in/amna-fatima-9777622a1/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:amnafatima12@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+</p>
 
 ---
 
@@ -61,3 +72,4 @@ Passionate about creating smooth user experiences and writing maintainable code.
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=gradient" />
 </p>
+
