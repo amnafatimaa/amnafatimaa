@@ -36,8 +36,11 @@ Passionate about creating smooth user experiences and writing maintainable code.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,tailwind,bootstrap" /><br/>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,django,python,jwt,jinja,sqlite,postgresql,mongodb" /><br/>
-  <img src="https://skillicons.dev/icons?i=git,github,vercel,linux,bash,powershell,figma,postman,jira,windows,matlab,npm" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,django,python,sqlite,postgresql,mongodb" />
+  <br/>
+  <img src="https://img.shields.io/badge/JWT-000?logo=jsonwebtokens&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jinja-B41717?logo=jinja&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white" />
 </p>
 
 ---
@@ -72,5 +75,6 @@ Passionate about creating smooth user experiences and writing maintainable code.
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=gradient" />
 </p>
+
 
 
