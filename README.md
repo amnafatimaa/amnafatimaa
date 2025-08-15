@@ -37,7 +37,7 @@ Passionate about creating smooth user experiences and writing maintainable code.
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,tailwind,bootstrap,nginx,wordpress" /><br/>
   <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,django,python,sqlite,postgresql,mongodb,discord,mysql" /><br/>
-  <img src="https://skillicons.dev/icons?i=figma,latex,matlab,notion,raspberrypi,powershell,robloxstudio,vscode,replit,photoshop" /><br/>
+  <img src="https://skillicons.dev/icons?i=figma,latex,matlab,postman,raspberrypi,powershell,robloxstudio,vscode,replit,photoshop" /><br/>
 </p>
 
 ---
@@ -72,6 +72,7 @@ Passionate about creating smooth user experiences and writing maintainable code.
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=gradient" />
 </p>
+
 
 
 
