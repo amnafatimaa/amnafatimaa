@@ -13,7 +13,7 @@ Passionate about creating smooth user experiences and writing maintainable code.
 ---
 
 ## 🚀 About Me
-- **Currently working with:** Python, React, Node.js, FastAPI  
+- **Currently working with:** Python, React, Node.js, FastAPI, Supabase
 - **Open to collaborate on:** Full-stack projects, API development  
 - **Love discussing:** Best practices, performance optimization, modern web tech  
 
@@ -72,6 +72,7 @@ Passionate about creating smooth user experiences and writing maintainable code.
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=gradient" />
 </p>
+
 
 
 
