@@ -6,7 +6,7 @@
 <!-- Intro -->
 <h2 align="center">💻 Frontend Developer | Backend Explorer | Always Learning</h2>
 <p align="center">
-I build responsive, engaging, and efficient web applications - from clean UI to functional APIs.<br/>
+I build responsive, engaging, and efficient web applications - from clean UI to functional APIs, got it all covered.<br/>
 Co-founder and CTO at Jobguarder
 Passionate about creating smooth user experiences and writing maintainable code. Interested in AI/ML.
 </p>
@@ -73,6 +73,7 @@ Passionate about creating smooth user experiences and writing maintainable code.
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=gradient" />
 </p>
+
 
 
 
